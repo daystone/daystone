@@ -4,16 +4,13 @@ Hi, I'm David Stone, passionate self-taught data analyst. My passion for data an
 
 ### Skills
 
- :seedling: Advanced Excel, SQL/MySQL, Power BI
+ :seedling: Python, SQL, Power BI, Advanced Excel, Tableau
 
  :seedling: Data cleaning, data transformation, data visualization
 
 ### I am currently learning
 
-:microscope: Tableau
-
-:microscope: Python
-
+:microscope: Cloud computing
 
 <!--
 **daystone/daystone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
